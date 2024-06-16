@@ -812,3 +812,14 @@ C:\ATIVIDADE-05\Exo.WebApi\obj\Debug\net6.0\refint\Exo.WebApi.dll
 C:\ATIVIDADE-05\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.pdb
 C:\ATIVIDADE-05\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.genruntimeconfig.cache
 C:\ATIVIDADE-05\Exo.WebApi\obj\Debug\net6.0\ref\Exo.WebApi.dll
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\atividade3\Exo.WebApi\atividade-05\obj\Debug\net6.0\Exo.WebApi.csproj.AssemblyReference.cache
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\atividade3\Exo.WebApi\atividade-05\obj\Debug\net6.0\Exo.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\atividade3\Exo.WebApi\atividade-05\obj\Debug\net6.0\Exo.WebApi.AssemblyInfoInputs.cache
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\atividade3\Exo.WebApi\atividade-05\obj\Debug\net6.0\Exo.WebApi.AssemblyInfo.cs
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\atividade3\Exo.WebApi\atividade-05\obj\Debug\net6.0\Exo.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\atividade3\Exo.WebApi\atividade-05\obj\Debug\net6.0\Exo.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\atividade3\Exo.WebApi\atividade-05\obj\Debug\net6.0\Exo.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\atividade3\Exo.WebApi\atividade-05\obj\Debug\net6.0\Exo.WebApi.sourcelink.json
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\atividade3\Exo.WebApi\atividade-05\obj\Debug\net6.0\Exo.WebApi.dll
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\atividade3\Exo.WebApi\atividade-05\obj\Debug\net6.0\refint\Exo.WebApi.dll
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\atividade3\Exo.WebApi\atividade-05\obj\Debug\net6.0\Exo.WebApi.pdb
